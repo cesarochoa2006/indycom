@@ -1,0 +1,27 @@
+{
+    "codigo":0,
+    "mensaje":"ok",
+    "cuerpo":[
+        {
+            "ano": 2017,
+            "tipo":"sdlfkja",
+            "numero":1233,
+            "total":100000,
+            "estado":"Liquidado"
+        },
+        {
+            "ano": 2018,
+            "tipo":"sdlfkja",
+            "numero":1234,
+            "total":100000,
+            "estado":"Liquidado"
+        },
+        {
+            "ano": 2019,
+            "tipo":"sdlfkja",
+            "numero":1235,
+            "total":100000,
+            "estado":"Liquidado"
+        }
+    ]
+}
